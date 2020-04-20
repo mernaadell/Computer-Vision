@@ -1,3 +1,3 @@
 # Computer-Vision
-## Convolutio kernal
+## Convolution kernal
 ## Cenny Edge Detection
